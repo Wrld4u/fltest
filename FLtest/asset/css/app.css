@@ -1,0 +1,12 @@
+.vb-rounded {
+    border: 2px solid darkorange;
+    border-radius: 15px;
+    min-height: 300px;
+}
+.vb-rounded-nmh {
+    border: 2px solid darkorange;
+    border-radius: 15px;
+}
+.btn-mw{
+    min-width: 100px;
+}
